@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PARALLEL_SUDOKU_SOLVER
+	bool "Parallel sudoku solver"
+	depends on BR2_TOOLCHAIN_HAS_THREADS
+	help
+	  Backtrack-based multithreaded sudoku solver.

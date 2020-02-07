@@ -1,0 +1,1 @@
+source "$BR2_EXTERNAL_HALF_TRACK_PATH/package/parallel-sudoku-solver/Config.in"
