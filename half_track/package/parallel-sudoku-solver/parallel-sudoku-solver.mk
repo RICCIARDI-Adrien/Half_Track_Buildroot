@@ -4,7 +4,7 @@
 #
 ################################################################################
 
-PARALLEL_SUDOKU_SOLVER_VERSION = eaf85366bc3ce145a2ec4f5456b7fd63cec3531c
+PARALLEL_SUDOKU_SOLVER_VERSION = c6b2d79cda59a2faf1fcafc505f9809a1bdd2dd3
 PARALLEL_SUDOKU_SOLVER_SITE = $(call github,RICCIARDI-Adrien,Parallel_Sudoku_Solver,$(PARALLEL_SUDOKU_SOLVER_VERSION))
 
 define PARALLEL_SUDOKU_SOLVER_BUILD_CMDS
